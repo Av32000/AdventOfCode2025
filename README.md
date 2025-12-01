@@ -27,3 +27,4 @@ cargo test -- <day> <part>
 ## Solutions
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
+| [Day 01](src/days/01) | [Part 1](src/days/01/part1.rs) | [Part 2](src/days/01/part2.rs) |

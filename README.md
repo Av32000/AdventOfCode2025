@@ -30,3 +30,4 @@ cargo test -- <day> <part>
 | [Day 01](src/days/01) | [Part 1](src/days/01/part1.rs) | [Part 2](src/days/01/part2.rs) |
 | [Day 02](src/days/02) | [Part 1](src/days/02/part1.rs) | [Part 2](src/days/02/part2.rs) |
 | [Day 03](src/days/03) | [Part 1](src/days/03/part1.rs) | [Part 2](src/days/03/part2.rs) |
+| [Day 04](src/days/04) | [Part 1](src/days/04/part1.rs) | [Part 2](src/days/04/part2.rs) |
